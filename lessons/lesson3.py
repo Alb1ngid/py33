@@ -36,6 +36,7 @@ beka = Bank('бека', 20, 0, '12345678987543')
 beka.getpass()
 beka.setpass('qwerdwvfsd')
 beka.getpass()
+
 # beka._money = 123456789
 #
 # print(beka._money)

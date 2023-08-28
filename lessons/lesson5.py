@@ -5,5 +5,7 @@
 # pip list , pip freeze,pip install
 # ветки
 # тест
+# git branch,git branch name,git checkout name,git checkout -b name,git merge
 
 import colorama,art
+

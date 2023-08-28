@@ -9,7 +9,10 @@ class A:
         print(self,'это метод А')
 
 
-class A2(A):...
+class A2(A):
+    def c(self):
+        print(self,'это метод А2')
+
 
 
 class C:
